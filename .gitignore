@@ -1,0 +1,6 @@
+01-starting-setup/node_modules
+01-starting-setup/public/*.Identifier
+01-starting-setup/src/*.Identifier
+01-starting-setup/src/components/*code-workspace
+
+
